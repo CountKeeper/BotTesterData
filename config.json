@@ -1,6 +1,6 @@
 {
-    "BOT_TOKEN" : "0",
-    "DEFAULT_PREFIX" : "test/",
+	"BOT_TOKEN" : "0",
+	"DEFAULT_PREFIX" : "test/",
 	"TEST_GUILD_ID" : 0,
-    "TEST_CHANNEL_ID" : 0
+	"TEST_CHANNEL_ID" : 0
 }
